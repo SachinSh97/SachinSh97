@@ -32,8 +32,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing in solving problem related to th client applications.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m have been working as a frontend developer for more than two years and solving problems related to the client applications..
 
 - :seedling: Exploring Technical Content Writing.
 

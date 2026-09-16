@@ -7,6 +7,9 @@
   <a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
     <img src="https://img.shields.io/badge/TOP%203%25%20TALENT-204ecf?style=for-the-badge" alt="Top 3% Talent">
   </a>
+  <a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
+    <img src="https://img.shields.io/badge/Hire%20Me-296bff?style=for-the-badge" alt="Hire Me">
+  </a>
   <a href="https://www.linkedin.com/in/sachin-sharma-928735156/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,9 +21,6 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
-    <img src="https://img.shields.io/badge/Hire%20Me-296bff?style=for-the-badge" alt="Hire Me">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=SachinSh97&style=flat-square&color=blue" alt=""/>
 </div>
 

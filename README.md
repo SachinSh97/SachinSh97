@@ -68,3 +68,17 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SachinSh97&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSh97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+
+<a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
+  <img src="https://img.shields.io/badge/TOP%203%25%20TALENT-204ecf?style=for-the-badge" alt="Top 3% Talent">
+</a>
+
+<br><br>
+
+<a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
+  <img src="https://img.shields.io/badge/Hire%20Me-296bff?style=for-the-badge" alt="Hire Me">
+</a>
+
+</div>

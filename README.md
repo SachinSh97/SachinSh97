@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/sachinsh97">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/SachinS58673357">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
 <a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz">
   <img src="https://img.shields.io/badge/Hire%20Me-296bff?style=for-the-badge" alt="Hire Me"/>
 </a>
@@ -178,17 +175,6 @@ flowchart LR
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SachinSh97&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&border_radius=10" alt="GitHub stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSh97&layout=compact&theme=tokyonight&hide_border=true&card_width=400&border_radius=10" alt="Top languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
 <img src="https://img.shields.io/github/followers/SachinSh97?style=for-the-badge&logo=github&color=296bff" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/SachinSh97?style=for-the-badge&logo=github&color=204ecf" alt="Stars"/>
 
@@ -207,6 +193,11 @@ flowchart LR
 <div align="center">
 
 I'm open to conversations about **frontend platform, design systems, and AI-assisted developer tooling**.
+
+<a href="mailto:sachink1.kvctps@gmail.com"><img src="https://img.shields.io/badge/Email-sachink1.kvctps@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+918619853683"><img src="https://img.shields.io/badge/Phone-+91%208619853683-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/sachinsh97"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.toptal.com/developers/resume/sachin-sharma#Xwb3xz"><img src="https://img.shields.io/badge/Hire%20me%20on-Toptal-204ecf?style=for-the-badge"/></a>

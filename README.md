@@ -152,8 +152,11 @@ flowchart LR
 
 | Project | Description | Stack |
 |:--|:--|:--|
+| [**mail-tracker**](https://github.com/SachinSh97/mail-tracker) | Email open tracking, so you know when a sent mail has been read | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
+| [**interceptor**](https://github.com/SachinSh97/interceptor) | Request/response interceptor for inspecting and modifying network calls | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| [**streak-up**](https://github.com/SachinSh97/streak-up) | Habit and streak tracker to build consistency day by day | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
+| [**social-media-platform-service**](https://github.com/SachinSh97/social-media-platform-service) | Backend service for a social media platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 | [**Tasker-App**](https://github.com/SachinSh97/Tasker-App) | Task management web app with multiple states, a lightweight Jira-style board | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
-| [**social-media-platform-service**](https://github.com/SachinSh97/social-media-platform-service) | Backend service for a social media platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 | [**contact-list-app**](https://github.com/SachinSh97/contact-list-app) | Single-page app to store contacts with full CRUD | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 | [**TO-DO-LIST**](https://github.com/SachinSh97/TO-DO-LIST) | Single-page app for CRUD operations on a task list | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 | [**Data-Structure-and-Algorithms-using-java**](https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java) | Data structure and algorithm problems in Java | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
@@ -171,10 +174,23 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SachinSh97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSh97&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com/?user=SachinSh97&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSh97&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SachinSh97&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&border_radius=10" alt="GitHub stats" width="100%"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSh97&layout=compact&theme=tokyonight&hide_border=true&card_width=400&border_radius=10" alt="Top languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://img.shields.io/github/followers/SachinSh97?style=for-the-badge&logo=github&color=296bff" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/SachinSh97?style=for-the-badge&logo=github&color=204ecf" alt="Stars"/>
 
 </div>
 
